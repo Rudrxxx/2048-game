@@ -2,7 +2,7 @@
 
 Welcome to 2048 Game – the addictive number puzzle that will tease your brain and test your strategy skills! Think you’ve got what it takes to reach the legendary 2048 tile? Let’s find out! 💥
 
-🎯 Play Now: [https://2048-game-omega-three.vercel.app/](https://2048-game-omega-three.vercel.app/)
+🎯 Play Now: [2048 Game](https://2048-game-omega-three.vercel.app/)
 
 🧐 What is 2048?
 
@@ -28,7 +28,7 @@ Want to tweak the game or host it yourself? Follow these steps:
 
 1️⃣ Clone the Repo
 
-git clone https://github.com/yourusername/2048-game.git
+git clone https://github.com/Rudrxxx/2048-game.git
 cd 2048-game
 
 2️⃣ Install Dependencies (If Any)
@@ -43,11 +43,11 @@ npm start  # Or open index.html in your browser
 
 Want to add more cool features? Fork the repo, make your changes, and submit a PR! 💡✨
 
-🔗 Repo: GitHub Link
+🔗 Repo: [GitHub](https://github.com/Rudrxxx/2048-game)
 
 📢 Let's Connect!
 
 💬 Have suggestions? Found a bug? Let's chat in the issues section!🌟 If you love this game, drop a star ⭐ on GitHub – it keeps me motivated!
 
-🚀 Ready to swipe & merge? Play now! 2048 Game 🎮🔥
+🚀 Ready to swipe & merge? Play now! [2048 Game](https://2048-game-omega-three.vercel.app/) 🎮🔥
 
